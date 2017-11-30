@@ -14,7 +14,7 @@ $ec2Client = new Ec2Client([
 
 $instanceIds = array('i-idhere1', 'i-idhere2');
 
-$url = 'https://www.collegestash.net/test.html';
+$url = 'https://www.example.com/test.html';
 $curl = curl_init();
 curl_setopt($curl, CURLOPT_URL, $url);
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
