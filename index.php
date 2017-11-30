@@ -12,7 +12,7 @@ $ec2Client = new Ec2Client([
     ]
 ]);
 
-$instanceIds = array('i-idhere1', 'i-idhere2');
+$instanceIds = array('i-idhere');
 
 $url = 'https://www.example.com/test.html';
 $curl = curl_init();
