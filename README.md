@@ -1,6 +1,1 @@
-# monitor-ec2
-
-Monitor EC2 and start if down.
-
-- Install [composer](https://getcomposer.org/download/)
-- `composer require aws/aws-sdk-php`
+[Wiki](https://www.collegestash.com/monitor-ec2-using-crontab/)
